@@ -110,10 +110,7 @@ Search online for deeper troubleshooting if needed.
 
 Level up your GPU game:
 
-### Cooling Tricks:
-- Open your case for better airflow.
-- Apply quality thermal paste (e.g., **Arctic MX-4**).
-- Set a strong fan curve (e.g., **100% at 80°C**).
+
 
 ### Monitoring:
 - Watch temps and power with **HWiNFO**.
@@ -124,4 +121,4 @@ Level up your GPU game:
 
 ---
 
-Good luck and happy overclocking! 🚀💥
+
