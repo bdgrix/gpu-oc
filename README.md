@@ -10,7 +10,7 @@ Welcome to the **GPU Overclocking and Undervolting Guide**! This guide helps you
 - [Undervolting Your GPU](#undervolting-your-gpu)
 - [Testing for Stability](#testing-for-stability)
 - [Fixing Problems](#fixing-problems)
-- [Pro Tips](#pro-tips)
+- [Monitoring](#Monitoring)
 
 ---
 
