@@ -55,23 +55,6 @@ Overclocking ramps up core and memory speeds for better performance. Here’s ho
 - Use **HWiNFO** to keep core temp **<80°C** and hotspot **<95°C**.
 - If it’s too hot, lower clocks or boost cooling.
 
----
-
-## Undervolting Your GPU
-
-Undervolting lowers voltage to save power and reduce heat without losing performance.
-
-### How to Do It:
-1. Open **MSI Afterburner’s Voltage/Frequency Curve Editor** (press `CTRL+F`).
-2. Pick a target voltage, like **900 mV**.
-3. Drag all points above it down to cap the voltage.
-4. Test with **HWiNFO**. If power throttles, drop voltage by **-25 mV** and retest.
-5. Aim for the lowest voltage where performance holds steady.
-
-> **Tip**: Pair undervolting with overclocking for max efficiency.
-
----
-
 ## Testing for Stability
 
 After tweaks, confirm your GPU is rock-solid:
