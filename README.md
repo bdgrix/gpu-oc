@@ -32,7 +32,6 @@ Before you start, get these ready:
 - Use **Superposition**, **3DMark**, or **OCCT** for stability tests.  
   *Skip Furmark—it’s too intense.*
 
-> **Note**: This guide is Nvidia-specific. AMD users may need different tools.
 
 ---
 
