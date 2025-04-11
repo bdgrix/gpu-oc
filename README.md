@@ -105,20 +105,9 @@ Hit a snag? Try these:
 Search online for deeper troubleshooting if needed.
 
 ---
-
-## Pro Tips
-
-Level up your GPU game:
-
-
-
 ### Monitoring:
 - Watch temps and power with **HWiNFO**.
 - Tweak settings if things get too warm.
-
-### Experiment:
-- Every GPU’s different. Play with settings to find your perfect setup.
-
 ---
 
 
